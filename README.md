@@ -16,6 +16,8 @@
   - [JavaScript (ES2018)](#javascript-es2018)
   - [JS Networking](#js-networking)
   - [TypeScript](#typescript)
+  - [RxJS](#rxjs)
+  - [Angular](#angular)
 - [Frontend - Angular](#frontend---angular)
 - [Frontend - React](#frontend---react)
 - [Frontend - Vue](#frontend---vue)
@@ -235,6 +237,82 @@ Basic HTML/Web
 * Decorators
 * Mixins
 * Publishing
+
+## RxJS
+
+* Observables
+  * Hot
+  * Cold
+* Operators
+  * Combination
+  * Conditional
+  * Creation
+  * Error handling
+  * Multicasting
+  * Filtering
+  * Transformation
+  * Utility
+* Subjects
+  * AsyncSubject
+  * BehaviorSubject
+  * ReplaySubject
+  * Subject
+
+## Angular
+
+* CLI - Command line interface
+* Schematics
+* Modules
+  * JS modules vs Angular modules
+  * Feature modules
+    * Domain feature modules
+    * Routed feature modules
+    * Routing modules
+    * Service feature modules
+    * Widget feature modules
+  * Entry components
+  * Declarations
+  * Providers
+  * Lazy loading feature modules
+  * Sharing modules
+* Components
+* Services and DI
+  * Hierarchical dependency injectors
+  * DI providers
+  * Singleton services
+* Templates
+  * Template syntax
+  * Lifecycle hooks
+  * User input
+  * Component interaction
+  * Component styles
+  * Angular components (Custom elements)
+  * Dynamic components
+    * Factories
+    * Outlets
+* Attribute directives
+* Structural directives
+* Pipes
+* Forms
+  * Reactive forms
+  * Dynamic forms
+  * Template-driven forms
+  * Validation
+* Observables in Angular 
+* HTTPClient
+* Routing & Navigation
+* Animations
+* Bootstraping
+* Internalization
+* Angular libraries
+* Server-side rendering
+* Service workers & PWA
+* Security
+  * XSS
+  * CSRF
+  * XSSI
+* AOT (Ahead of time) compilation
+* Testing
 
 # Frontend - Angular
 # Frontend - React
