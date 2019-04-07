@@ -8,6 +8,14 @@
   - [Semantic HTML (Basic)](#semantic-html-basic)
   - [CSS (Basic)](#css-basic)
   - [HTML / CSS tools (Basic)](#html--css-tools-basic)
+  - [CSS pre- & post- processors](#css-pre---post--processors)
+  - [CSS Architecture](#css-architecture)
+  - [Package managers](#package-managers)
+  - [CSS Frameworks](#css-frameworks)
+  - [Build tools](#build-tools)
+  - [JavaScript (ES2018)](#javascript-es2018)
+  - [JS Networking](#js-networking)
+  - [TypeScript](#typescript)
 - [Frontend - Angular](#frontend---angular)
 - [Frontend - React](#frontend---react)
 - [Frontend - Vue](#frontend---vue)
@@ -103,6 +111,130 @@ Basic HTML/Web
 * Safari inspector
 * HTML validation
 * CSS validation
+
+## CSS pre- & post- processors
+
+* SCSS
+  * Import - fragments, nested imports, index
+  * Mixins, @extend
+  * SassScript
+* PostCSS
+  * Autoprefixer
+  * CSSNext
+  * PreCSS
+  * Stylelint
+
+## CSS Architecture
+
+* Isolation
+* Specificity wars
+* Garbage collection
+* BEM
+
+## Package managers
+
+* Licenses (ref to **Prerequisites**)
+* Semantic versioning (ref to **Prerequisites**)
+* NPM
+  * Dependencies, dev-devependencies
+  * Package scope, access level, visibility
+  * Publishing
+  * Scripts
+  * Audit & Security
+* Yarn
+
+## CSS Frameworks
+
+* Bootstrap
+* Materialize CSS
+* Bulma
+* Semantic UI
+
+## Build tools
+
+* Task runners
+  * NPM scripts
+  * Gulp
+* Bundlers
+  * Webpack
+  * Parcel
+  * Rollup
+* Linters & formaters
+  * Prettier
+  * ESLint
+  * Stylelint
+  * TSLint (will be deprecvtaed soon)
+
+## JavaScript (ES2018)
+
+* Grammar and types
+* Control flow & error handling
+* Loops & iteration
+* Functions
+  * Arrow functions
+* Closures
+* Expressions & operators
+* Numbers & dates
+* Text formatting
+* Resular expressions
+* Arrays (indexed collections)
+* Map, WeakMap, Set (keyed collections)
+* Objects, prototypical inheritance
+* Promises
+  * Async/await syntax
+* Iterators & generators
+* Meta-programming
+  * Handlers & traps
+  * Proxy
+  * Revocable proxy
+  * Reflection
+* Strict mode
+* Template literals
+* Symbols
+* Spread operator, rest parameters
+* Shared memory, ArrayBuffer, TypedObject
+* Eventloop
+
+## JS Networking
+
+* XHR
+  * CORS
+* WebSockets
+
+## TypeScript
+
+* Basic types
+* Variable declarations
+* Interfaces
+* Classes
+* Functions
+* Generics
+* Enums
+* Type inference
+* Type compatibility
+* Advanced types
+  * Intersection of types
+  * Union types
+  * Type guards
+  * String literal types
+  * Index types
+  * Mapped types
+  * Conditional types
+    * Exclude<T, U>
+    * Extract<T, U>
+    * NonNullable<T>
+    * ReturnType<T>
+    * InstanceType<T>
+* Symbols
+* Iterators & generators
+* Modules
+  * Module resolution
+* Namespaces
+* Declaration merging
+* JSX / TSX
+* Decorators
+* Mixins
+* Publishing
 
 # Frontend - Angular
 # Frontend - React
