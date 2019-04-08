@@ -17,10 +17,11 @@
   - [JS Networking](#js-networking)
   - [TypeScript](#typescript)
   - [RxJS](#rxjs)
-  - [Angular](#angular)
 - [Frontend - Angular](#frontend---angular)
+  - [Angular](#angular)
 - [Frontend - React](#frontend---react)
 - [Frontend - Vue](#frontend---vue)
+- [Mobile - React Native](#mobile---react-native)
 
 # Frontend (General)
 
@@ -258,6 +259,9 @@ Basic HTML/Web
   * ReplaySubject
   * Subject
 
+![Angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)
+# Frontend - Angular
+
 ## Angular
 
 * CLI - Command line interface
@@ -314,6 +318,10 @@ Basic HTML/Web
 * AOT (Ahead of time) compilation
 * Testing
 
-# Frontend - Angular
+
+![React](https://miro.medium.com/max/480/1*To2H39eauxaeYxYMtV1afQ.png)
 # Frontend - React
+
 # Frontend - Vue
+
+# Mobile - React Native
