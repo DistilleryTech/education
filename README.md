@@ -2,8 +2,12 @@
 
 # Distillery growing course
 - [Distillery growing course](#distillery-growing-course)
-- [Frontend (General)](#frontend-general)
+- [General IT](#general-it)
   - [Prerequisites](#prerequisites)
+- [Backend](#backend)
+  - [Backend Prerequisites](#backend-prerequisites)
+- [Frontend (General)](#frontend-general)
+  - [Frontend Prerequisites](#frontend-prerequisites)
   - [Network (Basic)](#network-basic)
   - [Semantic HTML (Basic)](#semantic-html-basic)
   - [CSS (Basic)](#css-basic)
@@ -23,7 +27,7 @@
 - [Frontend - Vue](#frontend---vue)
 - [Mobile - React Native](#mobile---react-native)
 
-# Frontend (General)
+# General IT
 
 ## Prerequisites
 
@@ -31,9 +35,24 @@ Basic development principles, general for any development path
 
 * Data structures and algorithms
 * Design patterns
+* Code smells
+* Refactoring techniques
 * SOLID, KISS, YAGNI
+* TDD, BDD
+* Functional programming
 * Licenses
 * Semantic versioning
+
+# Backend
+
+## Backend Prerequisites
+
+# Frontend (General)
+
+## Frontend Prerequisites
+
+Basic development principles, general for any development path
+
 * Character encodings
 
 ## Network (Basic)
