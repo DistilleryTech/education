@@ -47,6 +47,8 @@ Basic development principles, general for any development path
 
 ## Backend Prerequisites
 
+// TODO
+
 # Frontend (General)
 
 ## Frontend Prerequisites
