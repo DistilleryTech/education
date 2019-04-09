@@ -4,11 +4,11 @@
 - [Distillery growing course](#distillery-growing-course)
 - [General IT](#general-it)
   - [Prerequisites](#prerequisites)
+  - [Network (Basic)](#network-basic)
 - [Backend](#backend)
   - [Backend Prerequisites](#backend-prerequisites)
 - [Frontend (General)](#frontend-general)
   - [Frontend Prerequisites](#frontend-prerequisites)
-  - [Network (Basic)](#network-basic)
   - [Semantic HTML (Basic)](#semantic-html-basic)
   - [CSS (Basic)](#css-basic)
   - [HTML / CSS tools (Basic)](#html--css-tools-basic)
@@ -43,20 +43,6 @@ Basic development principles, general for any development path
 * Licenses
 * Semantic versioning
 
-# Backend
-
-## Backend Prerequisites
-
-// TODO
-
-# Frontend (General)
-
-## Frontend Prerequisites
-
-Basic development principles, general for any development path
-
-* Character encodings
-
 ## Network (Basic)
 
 How modern networks work from developers POV
@@ -70,6 +56,20 @@ How modern networks work from developers POV
 * TLS, SSL
 * DNS
 * NTP
+
+# Backend
+
+## Backend Prerequisites
+
+// TODO
+
+# Frontend (General)
+
+## Frontend Prerequisites
+
+Basic development principles, general for any development path
+
+* Character encodings
 
 ## Semantic HTML (Basic)
 
