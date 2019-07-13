@@ -327,6 +327,45 @@ Basic HTML/Web
 
 # Frontend - React
 
+- Project Scaffolding
+  - create-react-app
+  - nextjs
+- React Developer Tools
+- JSX
+- Components
+  - State and Props
+  - Lifecycle
+- Events
+  - Handling Events
+  - Syntetic Events
+- Forms
+  - Controlled and Uncontrolled Components
+  - Forms Validation
+- Refs
+- Rendering
+  - Conditional Rendering
+  - Preventing from Rendering
+- Higher Order Components
+- Context API
+- Portals
+- Accessibility
+- Animations
+- Internationalization
+- Optimizing Performance
+- List and Keys
+- Static Type Checking
+- SSR - Server Side Rendering
+  - nextJS
+- Reconciliation
+- Fiber API
+- Scheduling
+- Testing
+- Service Workers & PWA
+- Security
+  - XSS
+  - CSRF
+  - XSS
+
 # Frontend - Vue
 
 # Mobile - React Native
