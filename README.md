@@ -347,6 +347,10 @@ Basic HTML/Web
   - Preventing from Rendering
 - Higher Order Components
 - Context API
+- React Hooks
+  - State Hook
+  - Effect Hook
+  - Rules of Hooks
 - Portals
 - Accessibility
 - Animations
