@@ -18,6 +18,7 @@
   - [JS Networking](#js-networking)
   - [TypeScript](#typescript)
   - [RxJS](#rxjs)
+  - [MobX](#mobx)
 - [Frontend - Angular](#frontend---angular)
   - [Angular](#angular)
 - [Frontend - React](#frontend---react)
@@ -262,6 +263,26 @@ Basic HTML/Web
   - BehaviorSubject
   - ReplaySubject
   - Subject
+
+## MobX
+
+- Concepts and Principles
+- Decorators
+- Observable
+  - Objects
+  - Arrays
+  - Maps
+  - Boxed Values
+- Observers
+- Reactions
+  - Autorun
+  - When
+  - Reaction
+- Actions
+  - Synchronous
+  - Asynchronous
+- Computed Values
+- Mobx React Devtools
 
 ![Angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)
 
