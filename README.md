@@ -527,3 +527,77 @@ Basic HTML/Web
 - Using Detox for iOs
 - Using Appium
 - Working with stack trace
+
+# .Net
+
+## CLR
+
+- Assemblies
+- CLR
+- IL
+- The Common Type System (CTS)
+- The Framework Class Library (FCL)
+- The Common Language Specification (CLS)
+
+## Designing Types
+
+- Fundamentals
+  - System.Object
+  - Types casting
+  - Namespaces and assemblies
+- Reference and ValueTypes
+  - Reference Types
+  - Value Types
+  - Boxing and Unboxing
+  - Object HashCode
+  - Dynamic
+- Types and Members kinds
+  - Visibility
+  - Accessability
+  - Static
+  - Partial classes
+  - Polymorphism
+    - Virtual Methods
+    - Overriding
+    - Overloading
+- Constants and Fields
+- Methods
+  - Instance Constructors and Classes (Reference Typse)
+  - Instance Constructors and Structures (Value Types)
+  - Type constructors
+    - Type Consstructor Performance
+  - Extensions methods
+  - Partial Methods
+- Parameters
+  - Optional and Named
+  - Implicitly Typed Local Variable
+  - Passging parameter by Reference
+  - Passing a Variable Number of Arguments
+  - Parameter and Return Type Guidelines
+- Properties
+  - The performance of calling Porperty Accessor Methods
+- Generics
+
+## Essential Types
+
+- Chars, Strings and Working with Text.
+  - System.String
+  - StringBuilder
+
+## Core Facilities
+
+- Exceptions
+- GC
+
+## Threading
+
+- CLR Thread and Windows Threads
+- CLR's Thread Pool
+- Execution Contexts
+- Tasks
+- Thread Synchronization Constructs
+  - Mutex
+  - Interlocked
+  - ManualRestEventSlim, SemaphoreSlim
+  - Monitor
+  - ReaderWriterLockSlim
