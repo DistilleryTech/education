@@ -527,15 +527,20 @@ Basic HTML/Web
 - Using Detox for iOs
 - Using Appium
 - Working with stack trace
+
 # .Net
+
 ## CLR
+
 - Assemblies
 - CLR
 - IL
 - The Common Type System (CTS)
 - The Framework Class Library (FCL)
 - The Common Language Specification (CLS)
+
 ## Designing Types
+
 - Fundamentals
   - System.Object
   - Types casting
@@ -572,14 +577,20 @@ Basic HTML/Web
 - Properties
   - The performance of calling Porperty Accessor Methods
 - Generics
+
 ## Essential Types
+
 - Chars, Strings and Working with Text.
   - System.String
   - StringBuilder
+
 ## Core Facilities
+
 - Exceptions
 - GC
+
 ## Threading
+
 - CLR Thread and Windows Threads
 - CLR's Thread Pool
 - Execution Contexts
