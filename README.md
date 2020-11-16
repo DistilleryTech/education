@@ -3,9 +3,11 @@
 # Distillery growing course
 
 - [Distillery growing course](#distillery-growing-course)
+- [Computer science](#computer-science)
+  - [General topics](#general-topics)
+  - [Network](#network)
 - [Frontend (General)](#frontend-general)
   - [Prerequisites](#prerequisites)
-  - [Network (Basic)](#network-basic)
   - [Semantic HTML (Basic)](#semantic-html-basic)
   - [CSS (Basic)](#css-basic)
   - [HTML / CSS tools (Basic)](#html--css-tools-basic)
@@ -27,6 +29,42 @@
   - [React-Native cross-platform [Basic]](#react-native-cross-platform-basic)
   - [React-Native [Intermediate]](#react-native-intermediate)
   - [React-Native [Advanced]](#react-native-advanced)
+- [Backend](#backend)
+  - [Databases](#databases)
+  - [PHP](#php)
+    - [Phalcon](#phalcon)
+- [Literature](#literature)
+
+# Computer science
+
+## General Topics
+
+- [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+- [Floating point numbers (IEEE-754)](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- [Hash tables](https://en.wikipedia.org/wiki/Hash_table)
+- [Heap as data structure and heap as memory allocation](https://stackoverflow.com/q/1699057)
+- [Heap vs stack allocation](https://stackoverflow.com/a/80113)
+- [Algorithm complexity / O-notation](https://en.wikipedia.org/wiki/Time_complexity)
+- [Quicksort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
+- ["Event loop" pattern](https://en.wikipedia.org/wiki/Event_loop)
+- [Concurrency vs Parallelism](https://stackoverflow.com/q/1050222)
+- [Race conditions](https://stackoverflow.com/a/34550)
+- [Mutex vs Semaphore](https://www.guru99.com/mutex-vs-semaphore.html)
+- [Regular expressions](https://www.regular-expressions.info/unicode.html)
+
+## Network
+
+How modern networks work from developers POV
+
+- IP
+- TCP
+- UDP
+- HTTP
+- [HTTP/2](https://http2-explained.haxx.se/en/part1)
+- QUIC
+- TLS, SSL
+- DNS
+- NTP
 
 # Frontend (General)
 
@@ -40,20 +78,6 @@ Basic development principles, general for any development path
 - Licenses
 - Semantic versioning
 - Character encodings
-
-## Network (Basic)
-
-How modern networks work from developers POV
-
-- IP
-- TCP
-- UDP
-- HTTP
-- HTTP/2
-- QUIC
-- TLS, SSL
-- DNS
-- NTP
 
 ## Semantic HTML (Basic)
 
@@ -675,3 +699,39 @@ Basic HTML/Web
 - Building IoT with .NET
 - Deploying Websites using Docker
   - Deploying projects using TYE Project (https://github.com/dotnet/tye) 
+# Backend
+
+## Databases
+
+- [ACID](https://en.wikipedia.org/wiki/ACID)
+- [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [DATE/DATETIME/TIMESTAMP in MySQL](https://dev.mysql.com/doc/refman/8.0/en/datetime.html)
+- [B-Tree vs Hash in MySQL](https://dev.mysql.com/doc/refman/8.0/en/index-btree-hash.html)
+- [Index types in PostgreSQL](https://www.postgresql.org/docs/13/indexes-types.html)
+- [`EXPLAIN` in MySQL](https://dev.mysql.com/doc/refman/8.0/en/explain-output.html)
+- [`EXPLAIN` in PostgreSQL](https://www.postgresql.org/docs/13/using-explain.html)
+- [Deadlock vs Wait timeout](https://stackoverflow.com/a/16564450) (DO NOT TRUST [THIS](https://orangematter.solarwinds.com/2018/09/12/the-difference-between-lock-wait-timeout-and-deadlock/) ARTICLE, IT'S MISLEADING)
+
+## PHP
+
+- [PHP 8 changelog](https://stitcher.io/blog/new-in-php-8)
+- [PSR-12](https://www.php-fig.org/psr/psr-12/)
+- [Types](https://www.php.net/manual/en/language.types.intro.php)
+- [getopt](https://www.php.net/manual/ru/function.getopt.php)
+- [Callable](https://www.php.net/manual/en/language.types.callable.php)
+- [Threading](https://www.php.net/manual/en/class.thread.php)
+- [Output buffering control](https://www.php.net/manual/en/book.outcontrol.php)
+- [APCu](https://www.php.net/manual/en/book.apcu.php)
+- [PDO](https://www.php.net/manual/ru/book.pdo)
+- [`declare ticks`](https://www.php.net/manual/en/control-structures.declare.php#control-structures.declare.ticks)
+- [zval](https://www.php.net/manual/ru/internals2.variables.intro.php)
+- [Profiling using xhprof](https://github.com/patrickallaert/xhprof)
+
+### Phalcon
+
+- [Tutorial](https://docs.phalcon.io/4.0/en/tutorial-basic)
+
+# Literature
+
+- ["Structured Computer Organization"](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525) by Andrew Tanenbaum
+- ["Refactoring"](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) by Martin Fowler
