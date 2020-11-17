@@ -530,6 +530,11 @@ Basic HTML/Web
 
 # .Net
 
+## .Net Roadmap next years
+
+![Roadmap .Net](https://user-images.githubusercontent.com/50750161/99021253-e58a5d00-2525-11eb-89d3-3831403ee316.png "Roadmap for next years")
+
+
 ## CLR
 
 - Assemblies
@@ -538,6 +543,29 @@ Basic HTML/Web
 - The Common Type System (CTS)
 - The Framework Class Library (FCL)
 - The Common Language Specification (CLS)
+
+## Command Line Interface (CLI)
+
+- dotnet command
+  -   add
+  -   build
+  -   build-server
+  -   clean
+  -   help
+  -   list
+  -   msbuild
+  -   new
+  -   nuget
+  -   pack
+  -   publish
+  -   remove
+  -   restore
+  -   run
+  -   sln
+  -   store
+  -   test
+  -   tool
+  -   vstest
 
 ## Designing Types
 
@@ -577,6 +605,9 @@ Basic HTML/Web
 - Properties
   - The performance of calling Porperty Accessor Methods
 - Generics
+- Interfaces
+- Logging during development and runtime execution
+- Unit testing
 
 ## Essential Types
 
@@ -601,3 +632,46 @@ Basic HTML/Web
   - ManualRestEventSlim, SemaphoreSlim
   - Monitor
   - ReaderWriterLockSlim
+
+## Working with Files, Streams, and Serialization
+
+- Managing the filesytem
+- Reading and writing with streams
+- Encoding and decoding text
+
+## Protecting Data and Applications
+
+- Encrypting and decrypting data
+- Hashing data
+- Signing data
+- Generating random numbers
+- Implementing Authentication and authorization
+
+## Entity Framework
+
+- Setting up EF 
+- Defining EF models
+- Querying EF models
+- Loading patterns with EF
+- Manipulating data with EF
+- Creating application Log to get executed queries
+
+## Querying and Manipulating Data using Linq
+
+- Writing LINQ queries
+- Using LINQ with EF 
+- Using multiple threads with parallel LINQ
+
+## Practical Applications of C# and .NET
+
+- Building Nuget packages
+- Building Websites using ASP.NET Core Razor
+- Building Websites using the Model-View-Controller Pattern
+- Building Websites using a Content Management
+- Building and Consuming Web Services
+- Building Intelligent Apps using Machine Learning
+- Building Windows Desktop Apps
+- Building Cross-Platform Mobile Apps Using Xamarin
+- Building IoT with .NET
+- Deploying Websites using Docker
+  - Deploying projects using TYE Project (https://github.com/dotnet/tye) 
