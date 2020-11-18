@@ -542,86 +542,88 @@ Basic HTML/Web
 ## Designing Types
 
 - Fundamentals
-  - System.Object [CLR via C# - 2012][CLR-via-C#-2012] p. 91
-  - Types casting [CLR via C# - 2012][CLR-via-C#-2012] p. 93
-  - Namespaces and assemblies [CLR via C# - 2012][CLR-via-C#-2012] p. 97
+  - System.Object [CLR via C# - 2012](CLR-via-C#-2012) p. 91
+  - Types casting [CLR via C# - 2012](CLR-via-C#-2012) p. 93
+  - Namespaces and assemblies [CLR via C# - 2012](CLR-via-C#-2012) p. 97
 
 - Reference and ValueTypes
-  - Reference Types and Value Types [CLR via C# - 2012][CLR-via-C#-2012] p. 118
-  - Boxing and Unboxing [CLR via C# - 2012][CLR-via-C#-2012] p. 124, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 106
-  - Object HashCode [CLR via C# - 2012][CLR-via-C#-2012] p. 142
-  - Dynamic [CLR via C# - 2012][CLR-via-C#-2012] p. 144
+  - Reference Types and Value Types [CLR via C# - 2012](CLR-via-C#-2012) p. 118
+  - Boxing and Unboxing [CLR via C# - 2012](CLR-via-C#-2012) p. 124, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 106
+  - Object HashCode [CLR via C# - 2012](CLR-via-C#-2012) p. 142
+  - Dynamic [CLR via C# - 2012](CLR-via-C#-2012) p. 144
 
 - Types and Members kinds
-  - Visibility [CLR via C# - 2012][CLR-via-C#-2012] p. 154
-  - Accessability [CLR via C# - 2012][CLR-via-C#-2012] p. 156
-  - Static [CLR via C# - 2012][CLR-via-C#-2012] p. 158
-  - Partial classes [CLR via C# - 2012][CLR-via-C#-2012] p. 159
-  - Polymorphism [CLR via C# - 2012][CLR-via-C#-2012] p. 160, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 97
-    - Virtual Methods [CLR via C# - 2012][CLR-via-C#-2012] p. 162, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 100
-    - Overriding [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 102
-    - Overloading [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 105
+  - Visibility [CLR via C# - 2012](CLR-via-C#-2012) p. 154
+  - Accessability [CLR via C# - 2012](CLR-via-C#-2012) p. 156
+  - Static [CLR via C# - 2012](CLR-via-C#-2012) p. 158
+  - Partial classes [CLR via C# - 2012](CLR-via-C#-2012) p. 159
+  - Polymorphism [CLR via C# - 2012](CLR-via-C#-2012) p. 160, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 97
+    - Virtual Methods [CLR via C# - 2012](CLR-via-C#-2012) p. 162, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 100
+    - Overriding [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 102
+    - Overloading [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 105
 
-- Constants and Fields [CLR via C# - 2012][CLR-via-C#-2012] p. 175
+- Constants and Fields [CLR via C# - 2012](CLR-via-C#-2012) p. 175
 
-- Methods  [CLR via C# - 2012][CLR-via-C#-2012] p. 181
-  - Instance Constructors and Classes (Reference Typse) [CLR via C# - 2012][CLR-via-C#-2012] p. 181
-  - Instance Constructors and Structures (Value Types) [CLR via C# - 2012][CLR-via-C#-2012] p. 184
-  - Type constructors [CLR via C# - 2012][CLR-via-C#-2012] p. 187, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 82
+- Methods  [CLR via C# - 2012](CLR-via-C#-2012) p. 181
+  - Instance Constructors and Classes (Reference Typse) [CLR via C# - 2012](CLR-via-C#-2012) p. 181
+  - Instance Constructors and Structures (Value Types) [CLR via C# - 2012](CLR-via-C#-2012) p. 184
+  - Type constructors [CLR via C# - 2012](CLR-via-C#-2012) p. 187, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 82
     - Type Constructor Performance
   - Extensions methods
-  - Partial Methods [CLR via C# - 2012][CLR-via-C#-2012] p. 204, [CLR via C# - 2012][CLR-via-C#-2012] p. 94
-  - Finalizers [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 94
+  - Partial Methods [CLR via C# - 2012](CLR-via-C#-2012) p. 204, [CLR via C# - 2012](CLR-via-C#-2012) p. 94
+  - Finalizers [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 94
 
-- Parameters [CLR via C# - 2012][CLR-via-C#-2012] p. 209
-  - Optional and Named [CLR via C# - 2012][CLR-via-C#-2012] p. 209
-  - Implicitly Typed Local Variable [CLR via C# - 2012][CLR-via-C#-2012] p. 212
-  - Passging parameter by Reference [CLR via C# - 2012][CLR-via-C#-2012] p. 214
-  - Passing a Variable Number of Arguments [CLR via C# - 2012][CLR-via-C#-2012] p. 220
-  - Parameter and Return Type Guidelines [CLR via C# - 2012][CLR-via-C#-2012] p. 223
+- Parameters [CLR via C# - 2012](CLR-via-C#-2012) p. 209
+  - Optional and Named [CLR via C# - 2012](CLR-via-C#-2012) p. 209
+  - Implicitly Typed Local Variable [CLR via C# - 2012](CLR-via-C#-2012) p. 212
+  - Passging parameter by Reference [CLR via C# - 2012](CLR-via-C#-2012) p. 214
+  - Passing a Variable Number of Arguments [CLR via C# - 2012](CLR-via-C#-2012) p. 220
+  - Parameter and Return Type Guidelines [CLR via C# - 2012](CLR-via-C#-2012) p. 223
 
-- Properties [CLR via C# - 2012][CLR-via-C#-2012] p. 227, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 87
-  - The performance of calling Porperty Accessor Methods [CLR via C# - 2012][CLR-via-C#-2012] p. 247
+- Properties [CLR via C# - 2012](CLR-via-C#-2012) p. 227, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 87
+  - The performance of calling Porperty Accessor Methods [CLR via C# - 2012](CLR-via-C#-2012) p. 247
 
-- Generics [CLR via C# - 2012][CLR-via-C#-2012] p. 265, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 121
+- Generics [CLR via C# - 2012](CLR-via-C#-2012) p. 265, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 121
 
 ## Essential Types
 
-- Chars, Strings and Working with Text. [CLR via C# - 2012][CLR-via-C#-2012] p. 317, [CLR via C# - 2012][CLR-via-C#-2012] p. 39
-  - System.String  [CLR via C# - 2012][CLR-via-C#-2012] p. 320
-  - StringBuilder  [CLR via C# - 2012][CLR-via-C#-2012] p. 336
+- Chars, Strings and Working with Text. [CLR via C# - 2012](CLR-via-C#-2012) p. 317, [CLR via C# - 2012](CLR-via-C#-2012) p. 39
+  - System.String  [CLR via C# - 2012](CLR-via-C#-2012) p. 320
+  - StringBuilder  [CLR via C# - 2012](CLR-via-C#-2012) p. 336
 
 ## Core Facilities
 
-- Exceptions  [CLR via C# - 2012][CLR-via-C#-2012] p. 451, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 158
-  - Exceptions performance [CLR via C# - 2012][CLR-via-C#-2012] p. 492
-  - Guidelines [CLR via C# - 2012][CLR-via-C#-2012] p. 478
-- GC [CLR via C# - 2012][CLR-via-C#-2012] p. 507, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 519
-- Memory [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 530, [CLR via C# - 2012][CLR-via-C#-2012] p. 505
+- Exceptions  [CLR via C# - 2012](CLR-via-C#-2012) p. 451, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 158
+  - Exceptions performance [CLR via C# - 2012](CLR-via-C#-2012) p. 492
+  - Guidelines [CLR via C# - 2012](CLR-via-C#-2012) p. 478
+- GC [CLR via C# - 2012](CLR-via-C#-2012) p. 507, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 519
+- Memory [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 530, [CLR via C# - 2012](CLR-via-C#-2012) p. 505
 
 ## Threading
 
-- Threading [CLR via C# - 2012][CLR-via-C#-2012] p. 669, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 560, 870
+- Threading [CLR via C# - 2012](CLR-via-C#-2012) p. 669, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 560, 870
 - CLR Thread and Windows Threads
-  - CLR's Thread Pool [CLR via C# - 2012][CLR-via-C#-2012] p. 692
-  - Execution Contexts [CLR via C# - 2012][CLR-via-C#-2012] p. 694
-  - Tasks  [CLR via C# - 2012][CLR-via-C#-2012] p. 700, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 577
-  - Primitive Thread Synchronization Constructs [CLR via C# - 2012][CLR-via-C#-2012] p. 757
-    - Mutex [CLR via C# - 2012][CLR-via-C#-2012] p. 785, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 877
-    - Interlocked [CLR via C# - 2012][CLR-via-C#-2012] p. 768
+  - CLR's Thread Pool [CLR via C# - 2012](CLR-via-C#-2012) p. 692
+  - Execution Contexts [CLR via C# - 2012](CLR-via-C#-2012) p. 694
+  - Tasks  [CLR via C# - 2012](CLR-via-C#-2012) p. 700, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 577
+  - Primitive Thread Synchronization Constructs [CLR via C# - 2012](CLR-via-C#-2012) p. 757
+    - Mutex [CLR via C# - 2012](CLR-via-C#-2012) p. 785, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 877
+    - Interlocked [CLR via C# - 2012](CLR-via-C#-2012) p. 768
   - Hybrid Thread Synchronization Constructs
-    - ManualRestEventSlim, SemaphoreSlim [CLR via C# - 2012][CLR-via-C#-2012] p. 794
-    - Monitor [CLR via C# - 2012][CLR-via-C#-2012] p. 794
-    - ReaderWriterLockSlim [CLR via C# - 2012][CLR-via-C#-2012] p. 800, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 885
+    - ManualRestEventSlim, SemaphoreSlim [CLR via C# - 2012](CLR-via-C#-2012) p. 794
+    - Monitor [CLR via C# - 2012](CLR-via-C#-2012) p. 794
+    - ReaderWriterLockSlim [CLR via C# - 2012](CLR-via-C#-2012) p. 800, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 885
 
 ## Best Practise
 
 - Extensions methods [CLR via C# - 2012](CLR-via-C#-2012) p. 200
-- Partial methods [CLR via C# - 2012][CLR-via-C#-2012] p. 207
-- Optional and named parameters [CLR via C# - 2012][CLR-via-C#-2012] p. 209
-- Parameter and return type [CLR via C# - 2012][CLR-via-C#-2012] p. 223
-- Exceptions [CLR via C# - 2012][CLR-via-C#-2012] p. 478
-- Design: Base Class or Interface? [CLR via C# - 2012][CLR-via-C#-2012] p. 312, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 117 
-`*` Keep in mind there is newer version of [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference], probably for other books newer versions are also available. Versions used in this article were chosen because they are widely available.
+- Partial methods [CLR via C# - 2012](CLR-via-C#-2012) p. 207
+- Optional and named parameters [CLR via C# - 2012](CLR-via-C#-2012) p. 209
+- Parameter and return type [CLR via C# - 2012](CLR-via-C#-2012) p. 223
+- Exceptions [CLR via C# - 2012](CLR-via-C#-2012) p. 478
+- Design: Base Class or Interface? [CLR via C# - 2012](CLR-via-C#-2012) p. 312, [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference) p. 117 
+
+`*` Keep in mind there is newer version of [C# 7.0 in a Nutshell The Definitive Reference](C#-7-0-in-a-Nutshell-The-Definitive-Reference), probably for other books newer versions are also available. Versions used in this article were chosen because they are widely available.
+
 [CLR-via-C#-2012]: https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 "Richter J. - CLR via C# - 2012"
 [C#-7-0-in-a-Nutshell-The-Definitive-Reference]: https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2 "C# 7.0 in a Nutshell: The Definitive Reference"
