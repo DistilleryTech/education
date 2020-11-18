@@ -615,7 +615,8 @@ Basic HTML/Web
     - ReaderWriterLockSlim [CLR via C# - 2012][CLR-via-C#-2012] p. 800, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 885
 
 ## Best Practise
-- Extensions methods [CLR via C# - 2012][CLR-via-C#-2012] p. 200
+
+- Extensions methods [CLR via C# - 2012](CLR-via-C#-2012) p. 200
 - Partial methods [CLR via C# - 2012][CLR-via-C#-2012] p. 207
 - Optional and named parameters [CLR via C# - 2012][CLR-via-C#-2012] p. 209
 - Parameter and return type [CLR via C# - 2012][CLR-via-C#-2012] p. 223
