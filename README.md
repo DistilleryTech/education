@@ -542,40 +542,46 @@ Basic HTML/Web
 ## Designing Types
 
 - Fundamentals
-  - System.Object
-  - Types casting
-  - Namespaces and assemblies
+  - System.Object [CLR via C# - 2012][CLR-via-C#-2012] p. 91
+  - Types casting [CLR via C# - 2012][CLR-via-C#-2012] p. 93
+  - Namespaces and assemblies [CLR via C# - 2012][CLR-via-C#-2012] p. 97
+
 - Reference and ValueTypes
-  - Reference Types
-  - Value Types
-  - Boxing and Unboxing
-  - Object HashCode
-  - Dynamic
+  - Reference Types and Value Types [CLR via C# - 2012][CLR-via-C#-2012] p. 118
+  - Boxing and Unboxing [CLR via C# - 2012][CLR-via-C#-2012] p. 124, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 106
+  - Object HashCode [CLR via C# - 2012][CLR-via-C#-2012] p. 142
+  - Dynamic [CLR via C# - 2012][CLR-via-C#-2012] p. 144
+
 - Types and Members kinds
-  - Visibility
-  - Accessability
-  - Static
-  - Partial classes
-  - Polymorphism
-    - Virtual Methods
-    - Overriding
-    - Overloading
-- Constants and Fields
-- Methods
-  - Instance Constructors and Classes (Reference Typse)
-  - Instance Constructors and Structures (Value Types)
-  - Type constructors
-    - Type Consstructor Performance
+  - Visibility [CLR via C# - 2012][CLR-via-C#-2012] p. 154
+  - Accessability [CLR via C# - 2012][CLR-via-C#-2012] p. 156
+  - Static [CLR via C# - 2012][CLR-via-C#-2012] p. 158
+  - Partial classes [CLR via C# - 2012][CLR-via-C#-2012] p. 159
+  - Polymorphism [CLR via C# - 2012][CLR-via-C#-2012] p. 160, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 97
+    - Virtual Methods [CLR via C# - 2012][CLR-via-C#-2012] p. 162, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 100
+    - Overriding [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 102
+    - Overloading [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 105
+
+- Constants and Fields [CLR via C# - 2012][CLR-via-C#-2012] p. 175
+
+- Methods  [CLR via C# - 2012][CLR-via-C#-2012] p. 181
+  - Instance Constructors and Classes (Reference Typse) [CLR via C# - 2012][CLR-via-C#-2012] p. 181
+  - Instance Constructors and Structures (Value Types) [CLR via C# - 2012][CLR-via-C#-2012] p. 184
+  - Type constructors [CLR via C# - 2012][CLR-via-C#-2012] p. 187, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 82
+    - Type Constructor Performance
   - Extensions methods
-  - Partial Methods
-- Parameters
-  - Optional and Named
-  - Implicitly Typed Local Variable
-  - Passging parameter by Reference
-  - Passing a Variable Number of Arguments
-  - Parameter and Return Type Guidelines
-- Properties
-  - The performance of calling Porperty Accessor Methods
+  - Partial Methods [CLR via C# - 2012][CLR-via-C#-2012] p. 204, [CLR via C# - 2012][CLR-via-C#-2012] p. 94
+  - Finalizers [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 94
+
+- Parameters [CLR via C# - 2012][CLR-via-C#-2012] p. 209
+  - Optional and Named [CLR via C# - 2012][CLR-via-C#-2012] p. 209
+  - Implicitly Typed Local Variable [CLR via C# - 2012][CLR-via-C#-2012] p. 212
+  - Passging parameter by Reference [CLR via C# - 2012][CLR-via-C#-2012] p. 214
+  - Passing a Variable Number of Arguments [CLR via C# - 2012][CLR-via-C#-2012] p. 220
+  - Parameter and Return Type Guidelines [CLR via C# - 2012][CLR-via-C#-2012] p. 223
+
+- Properties [CLR via C# - 2012][CLR-via-C#-2012] p. 227, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 87
+  - The performance of calling Porperty Accessor Methods [CLR via C# - 2012][CLR-via-C#-2012] p. 247
 - Generics
 
 ## Essential Types
@@ -600,4 +606,8 @@ Basic HTML/Web
   - Interlocked
   - ManualRestEventSlim, SemaphoreSlim
   - Monitor
-  - ReaderWriterLockSlim
+  - ReaderWriterLockSlim [CLR via C# - 2012][CLR-via-C#-2012]
+
+`*` Keep in mind there is newer version of [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference], probably for other books newer versions are also available. Versions used in this article were chosen because they are widely available.
+[CLR-via-C#-2012]: https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 "Richter J. - CLR via C# - 2012"
+[C#-7-0-in-a-Nutshell-The-Definitive-Reference]: https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2 "C# 7.0 in a Nutshell: The Definitive Reference"
