@@ -582,31 +582,37 @@ Basic HTML/Web
 
 - Properties [CLR via C# - 2012][CLR-via-C#-2012] p. 227, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 87
   - The performance of calling Porperty Accessor Methods [CLR via C# - 2012][CLR-via-C#-2012] p. 247
-- Generics
+
+- Generics [CLR via C# - 2012][CLR-via-C#-2012] p. 265, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 121
 
 ## Essential Types
 
-- Chars, Strings and Working with Text.
-  - System.String
-  - StringBuilder
+- Chars, Strings and Working with Text. [CLR via C# - 2012][CLR-via-C#-2012] p. 317, [CLR via C# - 2012][CLR-via-C#-2012] p. 39
+  - System.String  [CLR via C# - 2012][CLR-via-C#-2012] p. 320
+  - StringBuilder  [CLR via C# - 2012][CLR-via-C#-2012] p. 336
 
 ## Core Facilities
 
-- Exceptions
-- GC
+- Exceptions  [CLR via C# - 2012][CLR-via-C#-2012] p. 451, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 158
+  - Exceptions performance [CLR via C# - 2012][CLR-via-C#-2012] p. 492
+  - Guidelines [CLR via C# - 2012][CLR-via-C#-2012] p. 478
+- GC [CLR via C# - 2012][CLR-via-C#-2012] p. 507, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 519
+- Memory [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 530, [CLR via C# - 2012][CLR-via-C#-2012] p. 505
 
 ## Threading
 
+- Threading [CLR via C# - 2012][CLR-via-C#-2012] p. 669, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 560, 870
 - CLR Thread and Windows Threads
-- CLR's Thread Pool
-- Execution Contexts
-- Tasks
-- Thread Synchronization Constructs
-  - Mutex
-  - Interlocked
-  - ManualRestEventSlim, SemaphoreSlim
-  - Monitor
-  - ReaderWriterLockSlim [CLR via C# - 2012][CLR-via-C#-2012]
+  - CLR's Thread Pool [CLR via C# - 2012][CLR-via-C#-2012] p. 692
+  - Execution Contexts [CLR via C# - 2012][CLR-via-C#-2012] p. 694
+  - Tasks  [CLR via C# - 2012][CLR-via-C#-2012] p. 700, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 577
+  - Primitive Thread Synchronization Constructs [CLR via C# - 2012][CLR-via-C#-2012] p. 757
+    - Mutex [CLR via C# - 2012][CLR-via-C#-2012] p. 785, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 877
+    - Interlocked [CLR via C# - 2012][CLR-via-C#-2012] p. 768
+  - Hybrid Thread Synchronization Constructs
+    - ManualRestEventSlim, SemaphoreSlim [CLR via C# - 2012][CLR-via-C#-2012] p. 794
+    - Monitor [CLR via C# - 2012][CLR-via-C#-2012] p. 794
+    - ReaderWriterLockSlim [CLR via C# - 2012][CLR-via-C#-2012] p. 800, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 885
 
 `*` Keep in mind there is newer version of [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference], probably for other books newer versions are also available. Versions used in this article were chosen because they are widely available.
 [CLR-via-C#-2012]: https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 "Richter J. - CLR via C# - 2012"
