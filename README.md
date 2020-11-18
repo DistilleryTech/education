@@ -614,6 +614,13 @@ Basic HTML/Web
     - Monitor [CLR via C# - 2012][CLR-via-C#-2012] p. 794
     - ReaderWriterLockSlim [CLR via C# - 2012][CLR-via-C#-2012] p. 800, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 885
 
+## Best Practise
+- Extensions methods [CLR via C# - 2012][CLR-via-C#-2012] p. 200
+- Partial methods [CLR via C# - 2012][CLR-via-C#-2012] p. 207
+- Optional and named parameters [CLR via C# - 2012][CLR-via-C#-2012] p. 209
+- Parameter and return type [CLR via C# - 2012][CLR-via-C#-2012] p. 223
+- Exceptions [CLR via C# - 2012][CLR-via-C#-2012] p. 478
+- Design: Base Class or Interface? [CLR via C# - 2012][CLR-via-C#-2012] p. 312, [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference] p. 117 
 `*` Keep in mind there is newer version of [C# 7.0 in a Nutshell The Definitive Reference][C#-7-0-in-a-Nutshell-The-Definitive-Reference], probably for other books newer versions are also available. Versions used in this article were chosen because they are widely available.
 [CLR-via-C#-2012]: https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 "Richter J. - CLR via C# - 2012"
 [C#-7-0-in-a-Nutshell-The-Definitive-Reference]: https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2 "C# 7.0 in a Nutshell: The Definitive Reference"
