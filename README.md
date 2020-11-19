@@ -543,88 +543,87 @@ Basic HTML/Web
 
 - Fundamentals
   - System.Object <a title="CLR via C# - 2012, p. 91" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
-  - System.Object [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 91
-  - Types casting [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 93
-  - Namespaces and assemblies [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 97
+  - Types casting <a title="CLR via C# - 2012, p. 93" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Namespaces and assemblies <a title="CLR via C# - 2012, p. 97" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
 
 - Reference and ValueTypes
-  - Reference Types and Value Types [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 118
-  - Boxing and Unboxing [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 124, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 106
-  - Object HashCode [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 142
-  - Dynamic [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 144
+  - Reference Types and Value Types <a title="CLR via C# - 2012, p. 118" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Boxing and Unboxing <a title="CLR via C# - 2012, p. 124" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 106" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+  - Object HashCode <a title="CLR via C# - 2012, p. 142" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Dynamic <a title="CLR via C# - 2012, p. 144" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
 
 - Types and Members kinds
-  - Visibility [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 154
-  - Accessability [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 156
-  - Static [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 158
-  - Partial classes [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 159
-  - Polymorphism [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 160, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 97
-    - Virtual Methods [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 162, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 100
-    - Overriding [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 102
-    - Overloading [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 105
+  - Visibility <a title="CLR via C# - 2012, p. 154" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Accessability <a title="CLR via C# - 2012, p. 156" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Static <a title="CLR via C# - 2012, p. 158" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Partial classes <a title="CLR via C# - 2012, p. 159" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Polymorphism <a title="CLR via C# - 2012, p. 160" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 97" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+    - Virtual Methods <a title="CLR via C# - 2012, p. 162" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 100" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+    - Overriding <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 102" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+    - Overloading <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 105" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
 
-- Constants and Fields [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 175
+- Constants and Fields <a title="CLR via C# - 2012, p. 175" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
 
-- Methods  [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 181
-  - Instance Constructors and Classes (Reference Typse) [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 181
-  - Instance Constructors and Structures (Value Types) [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 184
-  - Type constructors [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 187, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 82
+- Methods  <a title="CLR via C# - 2012, p. 181" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Instance Constructors and Classes (Reference Typse) <a title="CLR via C# - 2012, p. 181" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Instance Constructors and Structures (Value Types) <a title="CLR via C# - 2012, p. 184" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Type constructors <a title="CLR via C# - 2012, p. 187" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 82" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
     - Type Constructor Performance
   - Extensions methods
-  - Partial Methods [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 204, [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 94
-  - Finalizers [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 94
+  - Partial Methods <a title="CLR via C# - 2012, p. 204" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="CLR via C# - 2012, p. 94" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Finalizers <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 94" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
 
-- Parameters [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 209
-  - Optional and Named [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 209
-  - Implicitly Typed Local Variable [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 212
-  - Passging parameter by Reference [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 214
-  - Passing a Variable Number of Arguments [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 220
-  - Parameter and Return Type Guidelines [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 223
+- Parameters <a title="CLR via C# - 2012, p. p. 209" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Optional and Named <a title="CLR via C# - 2012, p. 209" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Implicitly Typed Local Variable <a title="CLR via C# - 2012, p. 212" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Passging parameter by Reference <a title="CLR via C# - 2012, p. 214" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Passing a Variable Number of Arguments <a title="CLR via C# - 2012, p. 220" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Parameter and Return Type Guidelines <a title="CLR via C# - 2012, p. 223" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
 
-- Properties [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 227, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 87
-  - The performance of calling Porperty Accessor Methods [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 247
+- Properties <a title="CLR via C# - 2012, p. 227" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 87" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+  - The performance of calling Porperty Accessor Methods <a title="CLR via C# - 2012, p. 247" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
 
-- Generics [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 265, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 121
+- Generics <a title="CLR via C# - 2012, p. 265" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 121" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
 
 ## Essential Types
 
-- Chars, Strings and Working with Text. [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 317, [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 39
-  - System.String  [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 320
-  - StringBuilder  [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 336
+- Chars, Strings and Working with Text. <a title="CLR via C# - 2012, p. 317" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="CLR via C# - 2012, p. 39" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - System.String  <a title="CLR via C# - 2012, p. 320" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - StringBuilder  <a title="CLR via C# - 2012, p. 336" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
 
 ## Core Facilities
 
-- Exceptions  [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 451, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 158
-  - Exceptions performance [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 492
-  - Guidelines [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 478
-- GC [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 507, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 519
-- Memory [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 530, [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 505
+- Exceptions  <a title="CLR via C# - 2012, p. 451" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 158" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+  - Exceptions performance <a title="CLR via C# - 2012,p. 492" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Guidelines <a title="CLR via C# - 2012,p. 478" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+- GC <a title="CLR via C# - 2012, p. 507" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 519" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+- Memory <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 530" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a> , <a title="CLR via C# - 2012, p. 505" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
 
 ## Threading
 
-- Threading [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 669, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 560, 870
+- Threading <a title="CLR via C# - 2012, p. 669" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 560, 870" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
 - CLR Thread and Windows Threads
-  - CLR's Thread Pool [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 692
-  - Execution Contexts [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 694
-  - Tasks  [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 700, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 577
-  - Primitive Thread Synchronization Constructs [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 757
-    - Mutex [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 785, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 877
-    - Interlocked [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 768
+  - CLR's Thread Pool <a title="CLR via C# - 2012, p. 692" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Execution Contexts <a title="CLR via C# - 2012, p. 694" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+  - Tasks  <a title="CLR via C# - 2012, p. 700" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 577" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+  - Primitive Thread Synchronization Constructs <a title="CLR via C# - 2012, p. 757" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+    - Mutex <a title="CLR via C# - 2012, p. 785" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 877" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
+    - Interlocked <a title="CLR via C# - 2012, p. 768" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
   - Hybrid Thread Synchronization Constructs
-    - ManualRestEventSlim, SemaphoreSlim [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 794
-    - Monitor [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 794
-    - ReaderWriterLockSlim [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 800, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 885
+    - ManualRestEventSlim, SemaphoreSlim <a title="CLR via C# - 2012, p. 794" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+    - Monitor <a title="CLR via C# - 2012, p. 794" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+    - ReaderWriterLockSlim <a title="CLR via C# - 2012, p. 800" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 885" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
 
 ## Best Practise
 
-- Extensions methods [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 200
-- Partial methods [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 207
-- Optional and named parameters [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 209
-- Parameter and return type [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 223
-- Exceptions [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 478
-- Design: Base Class or Interface? [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 312, [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2) p. 117
+- Extensions methods <a title="CLR via C# - 2012, p. 200" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+- Partial methods <a title="CLR via C# - 2012, p. 207" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+- Optional and named parameters <a title="CLR via C# - 2012, p. 209" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+- Parameter and return type <a title="CLR via C# - 2012, p. 223" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+- Exceptions <a title="CLR via C# - 2012, p. 478" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
+- Design: Base Class or Interface? <a title="CLR via C# - 2012, p. 312" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>, <a title="C# 7.0 in a Nutshell The Definitive Reference, p. 117" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>
 
-`*` Keep in mind there is newer version of [C# 7.0 in a Nutshell The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2), probably for other books newer versions are also available. Versions used in this article were chosen because they are widely available.
+`*` Keep in mind there is newer version of <a title="C# 7.0 in a Nutshell The Definitive Reference" href="https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_2?dchild=1&keywords=Joseph+Albahari+%26+Ben+Albahari+-+C%23+7.0+-+Pocket+Reference&qid=1605618350&s=digital-text&sr=1-2">[?]</a>, probably for other books newer versions are also available. Versions used in this article were chosen because they are widely available.
 
 - Richter J. - CLR via C# - 2012
 - C# 7.0 in a Nutshell: The Definitive Reference, 2017, first Edition
