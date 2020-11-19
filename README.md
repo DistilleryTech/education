@@ -542,6 +542,7 @@ Basic HTML/Web
 ## Designing Types
 
 - Fundamentals
+  - System.Object <a title="CLR via C# - 2012, p. 91" href="https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">[?]</a>
   - System.Object [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 91
   - Types casting [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 93
   - Namespaces and assemblies [CLR via C# - 2012](https://www.amazon.com/gp/product/B00JDMQJKQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) p. 97
