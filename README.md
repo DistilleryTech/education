@@ -37,25 +37,58 @@
 
 # Computer science
 
-## General Topics
+## Data structures (Basic)
 
-- [OSI model](https://en.wikipedia.org/wiki/OSI_model)
-- [Floating point numbers (IEEE-754)](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- [Big O notation. Time and space complexity](https://en.wikipedia.org/wiki/Time_complexity)
+- Array, Vector, Linked list, Double linked list, Stack and Queue
+- Hash
 - [Hash tables](https://en.wikipedia.org/wiki/Hash_table)
+- Tree
+- Heap
+- Integers (LH, HL, signed, unsigned)
+- [Floating point numbers (IEEE-754)](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- String (ASCII, UTF-8, Unicode)
+
+## Data structures (Intermediate)
+
+- Priority queue
+- Skip list
+- AVL
+- Red-black tree
+- Bloom filter
+
+## Algorithms (Basic)
+
+- Binary search
+- BFS
+- DFS
+- Dijkstra
+- Minimum spaning tree
+- [Quicksort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
+- Shell sort
+- Radix sort
+
+## Memory mangement
+
 - [Heap as data structure and heap as memory allocation](https://stackoverflow.com/q/1699057)
 - [Heap vs stack allocation](https://stackoverflow.com/a/80113)
-- [Algorithm complexity / O-notation](https://en.wikipedia.org/wiki/Time_complexity)
-- [Quicksort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
-- ["Event loop" pattern](https://en.wikipedia.org/wiki/Event_loop)
+- Mark and sweep
+
+## Text processing
+
+- [Regular expressions](https://www.regular-expressions.info/unicode.html)
+
+## Concurency
+
 - [Concurrency vs Parallelism](https://stackoverflow.com/q/1050222)
 - [Race conditions](https://stackoverflow.com/a/34550)
 - [Mutex vs Semaphore](https://www.guru99.com/mutex-vs-semaphore.html)
-- [Regular expressions](https://www.regular-expressions.info/unicode.html)
 
 ## Network
 
 How modern networks work from developers POV
 
+- [OSI model](https://en.wikipedia.org/wiki/OSI_model)
 - IP
 - TCP
 - UDP
@@ -558,7 +591,6 @@ Basic HTML/Web
 
 ![Roadmap .Net](https://user-images.githubusercontent.com/50750161/99021253-e58a5d00-2525-11eb-89d3-3831403ee316.png "Roadmap for next years")
 
-
 ## CLR
 
 - Assemblies
@@ -571,25 +603,25 @@ Basic HTML/Web
 ## Command Line Interface (CLI)
 
 - dotnet command
-  -   add
-  -   build
-  -   build-server
-  -   clean
-  -   help
-  -   list
-  -   msbuild
-  -   new
-  -   nuget
-  -   pack
-  -   publish
-  -   remove
-  -   restore
-  -   run
-  -   sln
-  -   store
-  -   test
-  -   tool
-  -   vstest
+  - add
+  - build
+  - build-server
+  - clean
+  - help
+  - list
+  - msbuild
+  - new
+  - nuget
+  - pack
+  - publish
+  - remove
+  - restore
+  - run
+  - sln
+  - store
+  - test
+  - tool
+  - vstest
 
 ## Designing Types
 
@@ -673,7 +705,7 @@ Basic HTML/Web
 
 ## Entity Framework
 
-- Setting up EF 
+- Setting up EF
 - Defining EF models
 - Querying EF models
 - Loading patterns with EF
@@ -683,7 +715,7 @@ Basic HTML/Web
 ## Querying and Manipulating Data using Linq
 
 - Writing LINQ queries
-- Using LINQ with EF 
+- Using LINQ with EF
 - Using multiple threads with parallel LINQ
 
 ## Practical Applications of C# and .NET
@@ -698,7 +730,8 @@ Basic HTML/Web
 - Building Cross-Platform Mobile Apps Using Xamarin
 - Building IoT with .NET
 - Deploying Websites using Docker
-  - Deploying projects using TYE Project (https://github.com/dotnet/tye) 
+  - Deploying projects using TYE Project (https://github.com/dotnet/tye)
+
 # Backend
 
 ## Databases
